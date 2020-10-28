@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=find-hridoy&label=Profile%20views&color=0e75b6&style=flat" alt="find-hridoy" /> </p>
 
-- 💬 Skills: **React, Javascript,MongoDB, Firebase, HTML, CSS**
+- 💬 Skills: **React, Javascript, MongoDB, Firebase, Bootstrap, Material-UI, HTML, CSS**
 
 - 📫 How to reach me **mdhridoymia546@gmail.com**
 
