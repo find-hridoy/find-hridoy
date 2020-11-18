@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **mdhridoymia546@gmail.com**
 
-- ⚡ Fun fact **I think I'm funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
